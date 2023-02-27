@@ -200,6 +200,7 @@ html, body{
 .ulIni{
     display: flex;
     justify-content: space-around;
+    flex-wrap: wrap;
     align-items: center;
     padding: 0px;
 }
